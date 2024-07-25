@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestLanguageApp</string>
+    <string name="action_settings">Ajustes</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primer fragmento</string>
+    <string name="second_fragment_label">Segundo fragmento</string>
+    <string name="next">Próxima</string>
+    <string name="previous">Previa</string>
+    <string name="feature_a_name">Característica A</string>
+    <string name="lorem_ipsum">
+        ES
+    </string>
+</resources>
